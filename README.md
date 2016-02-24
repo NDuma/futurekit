@@ -5,7 +5,7 @@ Futuredeck.io
 
 How to contribute
 ==============
-Please send a message to https://github.com/knuxus for any clarifications
+Just Pull
 
 License
 ==============
